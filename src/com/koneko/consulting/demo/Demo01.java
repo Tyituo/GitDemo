@@ -2,6 +2,6 @@ package com.koneko.consulting.demo;
 
 public class Demo01 {
 	public static void main(String[] args) {
-		System.out.println("Hello QB");
+		System.out.println("Hello QBaaa");
 	}
 }
